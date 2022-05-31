@@ -1,8 +1,8 @@
-## ADD Docker with  webxr 
+## Aframe  with Docker 
 
-## Step 1 
+## Steps
 
-  - Run this command `docker build -t aframe-docker . `  
+  - Run command `docker build -t aframe-docker . `  
   - `docker run --name aframe-docker  -it debian`
 
   
