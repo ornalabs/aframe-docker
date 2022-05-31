@@ -1,5 +1,5 @@
 const express = require('express')
 const app = express()
 
-app.get('/', (req, res) => res.send('Hello sdafsadfsafsfsfsa!'))
+app.get('/', (req, res) => res.send('yo earth!'))
 app.listen(3000, () => console.log('Server ready'))
